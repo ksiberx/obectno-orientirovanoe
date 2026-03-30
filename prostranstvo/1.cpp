@@ -43,8 +43,6 @@ public:
 
 int main() {
     setlocale(LC_ALL, "ru");
-    cout << "Задание 1.\n\n";
-
     // Пример 1: Успешная работа
     try {
         cout << "1. Создание счета:\n";
